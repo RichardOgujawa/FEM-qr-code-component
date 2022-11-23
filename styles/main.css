@@ -1,1 +1,46 @@
 @import url(reset.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    font-size: 14px;
+    font-family: 'Outfit', 'sans-serif';
+    font-weight: 700;
+
+    display: grid; 
+    place-items: center;
+
+    background: hsl(212, 45%, 89%);
+}
+
+h1 {
+    margin-block: 1em;
+    text-align: center;
+    line-height: 1.8rem;
+}
+
+p {
+    font-weight: 400;
+    text-align: center;
+
+    color: gray;
+}
+
+article {
+    width: 20em;
+    padding: 1.5em; 
+    padding-bottom: 2em;
+    border-radius: 1em;
+
+    display: grid; 
+    place-items: center;
+
+    background: hsl(0, 0%, 100%);
+
+    filter: drop-shadow(0px 5px 10px hsl(0 0% 0% / 3%));
+}
+
+article img {
+    border-radius: 1em;
+}
+
