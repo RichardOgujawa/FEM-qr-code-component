@@ -5,4 +5,5 @@ This is a build I did using this design from Front End Mentor:
 
 You can find the original design [here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-You can also find a working example of my code in [my codepen]().
+You can also find a working example of my code in [my codepen](https://codepen.io/richardogujawa/pen/KKeozRO?editors=1100).
+

@@ -41,6 +41,7 @@ article {
 }
 
 article img {
+    height: auto;
     border-radius: 1em;
 }
 
